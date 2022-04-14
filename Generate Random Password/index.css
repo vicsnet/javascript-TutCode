@@ -1,0 +1,27 @@
+body{
+    /* background-color: black; */
+}
+.body-frame{
+    width: 550px;
+    height: 550px;
+    margin-top: 64px;
+    align-items: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: #1F2937;
+    
+}
+.head{
+    width: 354px;
+    height: 80px;
+    margin-left: 52px;
+    margin-top: 118px;
+    font-family: karla;
+    Font-style: ExtraBold;
+    Font-size: 40px;
+    Line-height: 40px;
+    Line-height: 86%;
+    align-items:Left;
+    Vertical-align:Top;
+    Letter-spacing:-2.5%;
+}
