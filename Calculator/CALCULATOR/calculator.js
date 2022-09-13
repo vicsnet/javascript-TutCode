@@ -10,9 +10,9 @@ buttons.map(button => {
         // console.log(e.target)
         // console.log(e.target.textContent)
         switch (e.target.innerText) {
-            case 'C':
-                display.innerText = " "
-                break
+            // case 'C':
+            //     display.innerText = " "
+            //     break
             case '←':
                 display.innerText = display.innerText.slice(0, -1)
                 break
